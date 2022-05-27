@@ -3,6 +3,7 @@
 name_file
 -all : tokens, AST, table symbol/
 -m : generate .asm for MARS
+gram/safron.g4
 ```
 ```
 VAR INT i;
