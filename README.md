@@ -105,10 +105,8 @@ Tokens:
 [@72,205:204='<EOF>',<-1>,21:2]
 ```
 Syntax:
-```
 ![image](https://user-images.githubusercontent.com/57590741/170657311-633aae4e-bc56-4921-a1ff-c2d80faaa7d3.png)
 
-```
 
 ASM:
 ```
@@ -185,7 +183,7 @@ f_L5 :
 
 ```
 MARS:
-```
+
 ![image](https://user-images.githubusercontent.com/57590741/170657755-19aa27bb-1abd-4bb4-a71b-10e593be78a9.png)
 
-```
+
