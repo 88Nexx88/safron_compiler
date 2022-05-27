@@ -1,10 +1,11 @@
-# kursovay_rabota_PA
+# safron_compiler
 ```
+Compiler operating args:
 name_file
 -all : tokens, AST, table symbol/
 -m : generate .asm for MARS
-gram/safron.g4
 ```
+EXAMPLE
 ```
 VAR INT i;
 
